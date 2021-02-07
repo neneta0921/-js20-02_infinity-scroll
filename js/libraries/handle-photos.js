@@ -1,4 +1,4 @@
-class GetPhotos {
+class HandlePhotos {
   // Get photos from Unsplash API
   async getPhotos() {
     try {
